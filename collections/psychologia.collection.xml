@@ -1,16 +1,17 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="pl">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="pl" authors="OpenStax Poland">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col32565</md:content-id>
     <md:title>Psychologia</md:title>
     <md:language>pl</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>728df0bb-e07f-489d-91e3-4734a5932f92</md:uuid>
-<md:slug>psychologia</md:slug>
-</metadata>
+    <md:slug>psychologia</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m89426"/>
     <col:subcollection>
-      <md:title>Wstęp do psychologii</md:title>
+      <md:title>Wst&#x119;p do psychologii</md:title>
       <col:content>
         <col:module document="m89521"/>
         <col:module document="m89436"/>
@@ -20,7 +21,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Prowadzenie badań</md:title>
+      <md:title>Prowadzenie bada&#x144;</md:title>
       <col:content>
         <col:module document="m89466"/>
         <col:module document="m89476"/>
@@ -41,7 +42,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Stany świadomości</md:title>
+      <md:title>Stany &#x15B;wiadomo&#x15B;ci</md:title>
       <col:content>
         <col:module document="m89559"/>
         <col:module document="m89560"/>
@@ -53,7 +54,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Wrażenia zmysłowe i spostrzeganie</md:title>
+      <md:title>Wra&#x17C;enia zmys&#x142;owe i spostrzeganie</md:title>
       <col:content>
         <col:module document="m89587"/>
         <col:module document="m89594"/>
@@ -65,7 +66,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Uczenie się</md:title>
+      <md:title>Uczenie si&#x119;</md:title>
       <col:content>
         <col:module document="m89624"/>
         <col:module document="m89641"/>
@@ -75,7 +76,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Myślenie i inteligencja</md:title>
+      <md:title>My&#x15B;lenie i inteligencja</md:title>
       <col:content>
         <col:module document="m89657"/>
         <col:module document="m89720"/>
@@ -87,7 +88,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Pamięć</md:title>
+      <md:title>Pami&#x119;&#x107;</md:title>
       <col:content>
         <col:module document="m89739"/>
         <col:module document="m89741"/>
@@ -117,7 +118,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Osobowość</md:title>
+      <md:title>Osobowo&#x15B;&#x107;</md:title>
       <col:content>
         <col:module document="m89652"/>
         <col:module document="m89654"/>
@@ -133,7 +134,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Psychologia społeczna</md:title>
+      <md:title>Psychologia spo&#x142;eczna</md:title>
       <col:content>
         <col:module document="m89615"/>
         <col:module document="m89618"/>
